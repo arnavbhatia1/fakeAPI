@@ -1,0 +1,52 @@
+[
+  {
+    "first": "Arnav",
+    "last": "Bhatia",
+    "birthDate": 01142002,
+    "city": "Fremont",
+    "state": "CA",
+    "occupation": "software engineer",
+    "salary": 120000
+    "mainParent": "mother"
+  },
+  {
+    "first": "Alex",
+    "last": "Triubek",
+    "birthDate": 05241995,
+    "city": "Baltimore",
+    "state": "MD",
+    "occupation": "game show host",
+    "salary": 630000
+    "mainParent": "father"
+  },
+  {
+    "first": "Arjun",
+    "last": "Srinivasan",
+    "birthDate": 04192005,
+    "city": "Edison",
+    "state": "NJ",
+    "occupation": "student",
+    "salary": 0
+    "mainParent": "mother"
+  },
+  {
+    "first": "John",
+    "last": "Doe",
+    "birthDate": 080520000,
+    "city": "Austin",
+    "state": "TX",
+    "occupation": "unemployed",
+    "salary": 0
+    "mainParent": "mother"
+  },
+  {
+    "first": "Pleuth",
+    "last": "Kindenberg",
+    "birthDate": 11301984,
+    "city": "Kansas City",
+    "state": "MO",
+    "occupation": "football player",
+    "salary": 960000
+    "mainParent": "father"
+  }
+]
