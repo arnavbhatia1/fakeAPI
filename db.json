@@ -6,7 +6,7 @@
     "city": "Fremont",
     "state": "CA",
     "occupation": "software engineer",
-    "salary": 120000
+    "salary": 120000,
     "mainParent": "mother"
   },
   {
@@ -16,7 +16,7 @@
     "city": "Baltimore",
     "state": "MD",
     "occupation": "game show host",
-    "salary": 630000
+    "salary": 630000,
     "mainParent": "father"
   },
   {
@@ -26,7 +26,7 @@
     "city": "Edison",
     "state": "NJ",
     "occupation": "student",
-    "salary": 0
+    "salary": 0,
     "mainParent": "mother"
   },
   {
@@ -36,7 +36,7 @@
     "city": "Austin",
     "state": "TX",
     "occupation": "unemployed",
-    "salary": 0
+    "salary": 0,
     "mainParent": "mother"
   },
   {
@@ -46,7 +46,7 @@
     "city": "Kansas City",
     "state": "MO",
     "occupation": "football player",
-    "salary": 960000
+    "salary": 960000,
     "mainParent": "father"
   }
 ]
