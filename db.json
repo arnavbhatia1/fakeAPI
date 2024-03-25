@@ -1,5 +1,4 @@
 {
-  "people": [
     {
       "first": "Arnav",
       "last": "Bhatia",
@@ -50,5 +49,4 @@
       "salary": 960000,
       "mainParent": "father"
     }
-  ]
 }
