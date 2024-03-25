@@ -2,7 +2,7 @@
   {
     "first": "Arnav",
     "last": "Bhatia",
-    "birthDate": 01142002,
+    "birthYear": 2002,
     "city": "Fremont",
     "state": "CA",
     "occupation": "software engineer",
@@ -12,7 +12,7 @@
   {
     "first": "Alex",
     "last": "Triubek",
-    "birthDate": 05241995,
+    "birthYear": 1995,
     "city": "Baltimore",
     "state": "MD",
     "occupation": "game show host",
@@ -22,7 +22,7 @@
   {
     "first": "Arjun",
     "last": "Srinivasan",
-    "birthDate": 04192005,
+    "birthYear": 2005,
     "city": "Edison",
     "state": "NJ",
     "occupation": "student",
@@ -32,7 +32,7 @@
   {
     "first": "John",
     "last": "Doe",
-    "birthDate": 080520000,
+    "birthYear": 2000,
     "city": "Austin",
     "state": "TX",
     "occupation": "unemployed",
@@ -42,7 +42,7 @@
   {
     "first": "Pleuth",
     "last": "Kindenberg",
-    "birthDate": 11301984,
+    "birthYear": 1984,
     "city": "Kansas City",
     "state": "MO",
     "occupation": "football player",
